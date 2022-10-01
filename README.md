@@ -2,7 +2,7 @@
 # Hey! I'm Eduardo Angelo 👋
 
 - 📚 CS Undergraduate at [CESAR School](http://www.cesar.school)
-- 📚 ADM Undergraduate at [UNINASSAU]
+- 📚 ADM Undergraduate at [UNINASSAU] (http://www.uninassau.edu)
 - 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Software Engineering** and **Administration with agile methods**
 
